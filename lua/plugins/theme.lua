@@ -1,1 +1,0 @@
-/home/thetrung/.config/omarchy/current/theme/neovim.lua
